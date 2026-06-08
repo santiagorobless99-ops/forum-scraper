@@ -1,0 +1,20 @@
+# Dataset files — not included for privacy/ethical reasons
+*.json
+*.csv
+*.sav
+
+# MAXQDA export directory
+maxqda_rozed/
+
+# Debug output
+debug.html
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
