@@ -98,5 +98,3 @@ python check_csv.py
 The collected dataset is **not included** in this repository due to the sensitive nature of the content and privacy considerations. The scripts are published to document the methodological pipeline and enable replication with independently collected data.
 
 ## License
-
-MIT
